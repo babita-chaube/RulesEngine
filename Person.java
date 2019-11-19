@@ -1,4 +1,4 @@
-package src.main.java.rulesEngine
+package src.main.java.rulesEngine;
 public class Person{
 int credit_score;
 String state;
